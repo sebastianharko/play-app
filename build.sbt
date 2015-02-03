@@ -2,7 +2,7 @@ import com.github.play2war.plugin._
 
 name := """my-first-app"""
 
-version := "1.0-SNAPSHOT"
+version := "2.0-SNAPSHOT"
 
 Play2WarPlugin.play2WarSettings
 
